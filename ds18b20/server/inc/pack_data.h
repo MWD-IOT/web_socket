@@ -6,7 +6,7 @@
  *    Description:  This file 
  *
  *        Version:  1.0.0(07/05/23)
- *         Author:  Lin XinCheng <1481155734@qq.com>
+ *         Author:  Lin XinCheng <2594041017@qq.com>
  *      ChangeLog:  1, Release initial version on "07/05/23 19:14:01"
  *                 
  ********************************************************************************/

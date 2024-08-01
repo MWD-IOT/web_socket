@@ -6,7 +6,7 @@
  *    Description:  This file 
  *
  *        Version:  1.0.0(08/05/23)
- *         Author:  Lin XinCheng <1481155734@qq.com>
+ *         Author:  Lin XinCheng <2594041017@qq.com>
  *      ChangeLog:  1, Release initial version on "08/05/23 16:49:13"
  *                 
  ********************************************************************************/
@@ -28,14 +28,14 @@ typedef enum
 	LOG_ERROR
 } log_level_t;
 
-// 日志结构体
+// 日志结构�?
 typedef struct 
 {
 	FILE *fp; // 日志文件指针
 	log_level_t level; // 日志级别
 } logger_t;
 
-/* 初始化日志 */
+/* 初�?�化日志 */
 int logger_init(const char *filename, log_level_t level);
 
 /* 关闭日志 */
@@ -94,7 +94,7 @@ int logger_write(log_level_t level, const char *code_name, const char *func_name
 /* 创建日志对象 */
 //int logger_create(logger_t *logger, const char *filename, log_level_t level);
 
-/* 销毁日志对象 */
+/* 销毁日志�?�象 */
 //int logger_destroy(logger_t *logger);
 
 #if 0
