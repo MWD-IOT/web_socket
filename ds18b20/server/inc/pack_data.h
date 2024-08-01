@@ -1,5 +1,5 @@
 /********************************************************************************
- *      Copyright:  (C) 2023 LXC
+ *      Copyright:  (C) 2023 MWD
  *                  All rights reserved.
  *
  *       Filename:  packet.h
